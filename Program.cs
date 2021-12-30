@@ -7,7 +7,7 @@ namespace Methods
         static void Main(string[] args)
         {
 
-            Console.Write("Enter You names here :");
+            Console.Write("Enter You names :");
 
             Console.Write("Enter name of the Father ");
             string myFather = Console.ReadLine();
